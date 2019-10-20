@@ -1,2 +1,3 @@
 # DistributionFormIPFS
-IPFS form for discribution front end with javascript
+IPFS form for distribution front end with javascript
+Distributed
